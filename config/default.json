@@ -19,11 +19,11 @@
   },
   "system": {
     "database": {
-      "host": "dino-db.c3yu8a40oo0e.eu-central-1.rds.amazonaws.com",
+      "host": "antondatabase.cbmq6iiy4yyt.eu-central-1.rds.amazonaws.com",
       "port": 5432,
       "database": "postgres",
-      "user": "dinoadmin",
-      "password": "d1no123!",
+      "user": "postgres",
+      "password": "Anton123!",
       "ssl": false
     },
     "theme": "anton1"
