@@ -19,10 +19,10 @@
   },
   "system": {
     "database": {
-      "host": "antondatabase.cbmq6iiy4yyt.eu-central-1.rds.amazonaws.com",
+      "host": "ntondb.cbmq6iiy4yyt.eu-central-1.rds.amazonaws.com",
       "port": 5432,
       "database": "postgres",
-      "user": "postgres",
+      "user": "antonadmin",
       "password": "Anton123!",
       "ssl": false
     },
